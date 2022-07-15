@@ -1,3 +1,3 @@
 # Evosquare
 Small top-down Unity game.
-<br>Sound effects are from Unity learning course.
+<br>Sound effect assets are from Unity learn - Create with Code course library.
